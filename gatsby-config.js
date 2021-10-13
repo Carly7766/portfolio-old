@@ -6,5 +6,14 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  plugins: [
+    {
+      resolve: "gatsby-plugin-typescript",
+      options: {
+        isTSX: true,
+        jsxPragma: "react-jsx",
+        allExtensions: true,
+      },
+    },
+  ],
 }
