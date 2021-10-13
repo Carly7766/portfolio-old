@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "My portfolio",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -14,16 +14,26 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
     "gatsby": "^3.14.2",
+    "gatsby-plugin-emotion": "^6.14.0",
+    "gatsby-plugin-typescript": "^3.14.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "typescript": "^4.4.4"
   },
   "devDependencies": {
+    "@types/node": "^16.10.5",
+    "@types/react": "^17.0.29",
+    "@types/react-dom": "^17.0.9",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^8.3.0",
     "prettier": "2.4.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/Carly7766/portfolio"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
