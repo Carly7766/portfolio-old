@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "@emotion/styled";
+import { colors } from "../../utils/variable";
 
 import "ress";
 
@@ -14,7 +15,7 @@ class Layout extends React.Component {
 }
 
 const LayoutWrapper = styled.div`
-  background-color: #808080;
+  background-color: ${colors.base};
 `;
 
 export default Layout;
