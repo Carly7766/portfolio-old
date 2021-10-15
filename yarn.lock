@@ -8072,6 +8072,13 @@ react-refresh@^0.9.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.9.0.tgz#71863337adc3e5c2f8a6bfddd12ae3bfe32aafbf"
   integrity sha512-Gvzk7OZpiqKSkxsQvO/mbTN1poglhmAV7gR/DdIrRrSMXraRQQlfikRJOr3Nb9GTMPC5kof948Zy6jJZIFtDvQ==
 
+react-wavify@^1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/react-wavify/-/react-wavify-1.5.4.tgz#99e4491262fccf464e7cd04417a5f335e1e6eda5"
+  integrity sha512-FYpTBpgEaW5fm0Vt7cbICwjP2Uiy9Oj6NGheyJ1tIM8ShcVBZD56ZrAGV2Ad/FyINUNbJxyAr4/yT6MFxwmanQ==
+  dependencies:
+    prop-types "^15.7.2"
+
 react@^17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react/-/react-17.0.1.tgz#6e0600416bd57574e3f86d92edba3d9008726127"
@@ -8403,6 +8410,11 @@ responselike@^2.0.0:
   integrity sha512-xH48u3FTB9VsZw7R+vvgaKeLKzT6jOogbQhEe/jewwnZgzPcnyWui2Av6JpoYZF/91uueC+lqhWqeURw5/qhCw==
   dependencies:
     lowercase-keys "^2.0.0"
+
+ress@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/ress/-/ress-4.0.0.tgz#784200da045548f67c26ca35dc18ff764b924c7d"
+  integrity sha512-awpQM9e6VL6ljw4XuH/ww2q4IEU0SAY9Lcvu4h4nIB5c5XhTUXH3Me8WA0zW3s3naU79lY8uVUJg30dvKJ5cNw==
 
 restore-cursor@^3.1.0:
   version "3.1.0"
