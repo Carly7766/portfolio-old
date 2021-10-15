@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "@emotion/styled";
 
+import "ress";
+
 class Layout extends React.Component {
   render() {
     return (
